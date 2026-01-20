@@ -2,7 +2,7 @@
   {
     "appId": "CarBook",
     "imageUrl": "https://iracle7.github.io/aiden-on/images/shared/banners/carbook.png",
-    "androidUrl": "https://play.google.com/store/apps/details?id=carbook",
+    "androidUrl": "https://play.google.com/store/apps/details?id=com.hyo.car_book",
     "iosUrl": "",
     "active": true
   }

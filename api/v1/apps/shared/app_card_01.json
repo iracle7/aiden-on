@@ -5,5 +5,12 @@
     "androidUrl": "https://play.google.com/store/apps/details?id=com.hyo.car_book",
     "iosUrl": "",
     "active": true
+  },
+  {
+    "appId": "LuckyEye",
+    "imageUrl": "https://iracle7.github.io/aiden-on/images/shared/banners/lucky_eye.png",
+    "androidUrl": "https://play.google.com/store/apps/details?id=lucky_eye",
+    "iosUrl": "",
+    "active": true
   }
 ]
